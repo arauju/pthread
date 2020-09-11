@@ -1,0 +1,29 @@
+
+
+PARALELISMO DE DADOS
+Número de elevadores: 3, número de passageiros: 1000
+
+Passageiros
+
+Tempo médio total de cada pessoa DENTRO: 119 Jepslons, FORA: 13 Jepslons
+
+ Elevador
+Numero médio de vezes que a porta abriu: 10 
+Distancia total percorrida media: 23 andares
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+PARALELISMO DE CONTROLE
+Número de elevadores: 3, número de passageiros: 1000
+
+Passageiros
+
+Tempo médio total de cada pessoa DENTRO: 52 Jepslons, FORA: 224 Jepslons
+
+ Elevador
+Numero médio de vezes que a porta abriu: 274 
+Distancia total percorrida media: 269 andares
+
